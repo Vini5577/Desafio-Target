@@ -1,3 +1,4 @@
+package targetTeste;
 import java.util.Scanner;
 
 public class inverterString {
